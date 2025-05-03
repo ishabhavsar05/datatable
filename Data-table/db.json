@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Shoes",
+      "category": "Fashion",
+      "price": 49
+    },
+    {
+      "id": "f988",
+      "name": "ring",
+      "category": "jwellery",
+      "price": "21"
+    },
+    {
+      "id": "789f",
+      "name": "skiert",
+      "category": "clothes",
+      "price": "47"
+    },
+    {
+      "id": "c00d",
+      "name": "vegetables",
+      "category": "grocerry",
+      "price": "41"
+    }
+  ]
+}
